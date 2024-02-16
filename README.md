@@ -19,3 +19,6 @@ The source code: *dekrpt.py*
 **Main Loop**: Finally, it starts the tkinter event loop (window.mainloop()), which keeps the GUI application running until the user closes the window.
 
 This script provides a convenient way to decrypt text files encrypted with a substitution cipher, offering a user-friendly interface for the decryption process.
+
+**Find the link to the encryption here**
+https://github.com/jogamel/substitution_cipher_encryption
